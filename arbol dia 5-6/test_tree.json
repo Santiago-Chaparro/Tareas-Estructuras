@@ -1,0 +1,15 @@
+{
+    "id": "0",
+    "name": "root",
+    "tipo": "carpeta",
+    "content": null,
+    "children": [
+        {
+            "id": "1",
+            "name": "carpetaX",
+            "tipo": "carpeta",
+            "content": null,
+            "children": []
+        }
+    ]
+}
